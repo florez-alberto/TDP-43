@@ -1,5 +1,4 @@
-# GISAID Data Processing and Downloading Workflow
-
+# TDP-43 Motifs in the GISAID database
 This repository contains Python scripts that automate the process of downloading, merging, and processing data from the GISAID website. The scripts are organized into two directories: `GISAID-crawler` and `TDP-43`, each with its own README file detailing the specific operations performed by the scripts within.
 
 To run each script, please set your working directory to the following:
