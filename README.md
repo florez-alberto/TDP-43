@@ -1,5 +1,6 @@
 # TDP-43 Motifs in the GISAID database
 <a href="https://zenodo.org/doi/10.5281/zenodo.10652455"><img src="https://zenodo.org/badge/756591816.svg" alt="DOI"></a>
+  
 This repository contains Python scripts that automate the process of downloading, merging, and processing data from the GISAID website. The scripts are organized into two directories: `GISAID-crawler` and `TDP-43`, each with its own README file detailing the specific operations performed by the scripts within.
 
 To run each script, please set your working directory to the following:
