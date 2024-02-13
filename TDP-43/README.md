@@ -1,4 +1,5 @@
 # GISAID Data Processing Workflow
+DOI: 10.5281/zenodo.10652456
 
 This Python script treats and scans the data downloaded from GISAID website. It uses functions from the `main_utils.py` and `gisaid_database_merger.py` libraries to perform such steps.
 
